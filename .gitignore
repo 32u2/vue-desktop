@@ -4,3 +4,5 @@ Thumbs.db
 bind*
 output
 windows.syso
+app/node_modules
+vendor/github.com
