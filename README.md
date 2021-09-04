@@ -21,6 +21,10 @@ cd ..
 astilectron-bundler
 ```
 
+# Screenshot
+
+![vue-desktop](screenshot.png?raw=true "vue-desktop")
+
 # Fresh Vue install
 
 This repo uses Vue3, babel, router, vuex and eslint. If you wish to replace this starter with a different Vue preset, place fresh Vue install in the **app** folder and add app\vue.config.js file with the following content:
