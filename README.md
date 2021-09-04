@@ -1,10 +1,17 @@
-# About
+# About this starter
 
 - Vue UI is in the **app** folder
 - app\vue.config.js routes Vue production build to **resources** folder
 - **astilectron-bundler** command places final output to the **output** folder
 
-# Example
+# Installation
+
+You will need:
+
+- working Go installation
+- enabled Go modules (set GO111MODULE=on)
+
+For convenience, only **node_modules** are .gitignored, but not vendored Go libraries.
 
 ```
 cd app
